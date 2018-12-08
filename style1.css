@@ -62,7 +62,7 @@ p{
 }
 .header{
     
-    background-image:url("../res/cover3.jpg") ;
+    background-image:url("cover3.jpg") ;
     height:500px;
     box-shadow:0px 4px 4px rgb(15, 15, 15);
     background-size:cover;
